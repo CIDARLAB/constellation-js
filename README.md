@@ -125,3 +125,10 @@ The JSON schema for a design space graph can be found in [`schemas/graph.schema.
 
 ### Synthetic Biology Open Language
 [SBOL](https://sbolstandard.org/) is an open standard for the representation of *in silico* biological designs, and the icons used in this tool are provided by [SBOL Visual](https://sbolstandard.org/visual/glyphs/). Design spaces are expressed in SBOL via the `CombinatorialDerivation` extension and can be exported and stored in [Knox](https://github.com/CIDARLAB/knox). This third form of design space representation allows Constellation to be easily integrated in the synthetic biology [community](https://sbolstandard.org/applications/).
+
+#
+### Manuscript
+
+Nicholas Roehner, James Roberts, Andrei Lapets, Dany Gould, Vidya Akavoor, Lucy Qin, D. Benjamin Gordon, Christopher Voigt, and Douglas Densmore. GOLDBAR: A Framework for Combinatorial Biological Design. ACS Synthetic Biology Article ASAP (2024). 
+
+DOI: https://pubs.acs.org/doi/full/10.1021/acssynbio.4c00296
